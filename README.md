@@ -26,6 +26,7 @@ git push -f
 git rebase -i HEAD~2                   <br/>
 p de pick   -> no commit principal     <br/>
 s de squash -> nos commits restantes   <br/>
+Control + c -> quando terminar a edição<br/>
 :x + enter                             <br/>
 git push -f origin branch              <br/>
 
